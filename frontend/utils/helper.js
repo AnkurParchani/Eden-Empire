@@ -1,4 +1,4 @@
-export const localhost = "http://127.0.0.1:3000";
+export const localhost = "https://eden-empire.onrender.com";
 
 // helper search function for header
 export const searchItems = (inputValue, items) => {
